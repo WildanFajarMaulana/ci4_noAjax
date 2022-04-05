@@ -1,0 +1,7 @@
+
+.daftar-komik{
+	color: red;
+}
+.table > tbody > tr > * {
+	vertical-align: middle;
+}
